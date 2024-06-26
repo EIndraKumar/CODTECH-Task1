@@ -1,8 +1,13 @@
 Name:  E INDRA KUMAR
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4SQL2580
+
 Domain: SQL
+
 Duration: June to July 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project :
